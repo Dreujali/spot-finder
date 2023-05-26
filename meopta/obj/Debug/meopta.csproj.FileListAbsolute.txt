@@ -1,0 +1,10 @@
+C:\Users\admin\source\repos\meopta\meopta\bin\Debug\meopta.exe.config
+C:\Users\admin\source\repos\meopta\meopta\bin\Debug\meopta.exe
+C:\Users\admin\source\repos\meopta\meopta\bin\Debug\meopta.pdb
+C:\Users\admin\source\repos\meopta\meopta\obj\Debug\meopta.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\meopta\meopta\obj\Debug\meopta.Form1.resources
+C:\Users\admin\source\repos\meopta\meopta\obj\Debug\meopta.Properties.Resources.resources
+C:\Users\admin\source\repos\meopta\meopta\obj\Debug\meopta.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\meopta\meopta\obj\Debug\meopta.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\meopta\meopta\obj\Debug\meopta.exe
+C:\Users\admin\source\repos\meopta\meopta\obj\Debug\meopta.pdb
